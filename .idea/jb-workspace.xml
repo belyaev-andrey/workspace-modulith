@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="bookify" path="$PROJECT_DIR$/../../bookify">
+      <vcs id="Git" remoteUrl="https://github.com/belyaev-andrey/bookify.git" />
+    </project>
+    <project name="cqrs-spring-modulith" path="$PROJECT_DIR$/../cqrs-spring-modulith">
+      <vcs id="Git" remoteUrl="https://github.com/odrotbohm/cqrs-spring-modulith.git" />
+    </project>
+    <project name="spring-modular-monolith" path="$PROJECT_DIR$/../spring-modular-monolith">
+      <vcs id="Git" remoteUrl="https://github.com/sivaprasadreddy/spring-modular-monolith.git" />
+    </project>
+    <option name="workspace" value="true" />
+  </component>
+</project>
