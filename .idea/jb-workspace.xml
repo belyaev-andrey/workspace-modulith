@@ -10,6 +10,9 @@
     <project name="spring-modular-monolith" path="$PROJECT_DIR$/spring-modular-monolith">
       <vcs id="Git" remoteUrl="https://github.com/sivaprasadreddy/spring-modular-monolith.git" />
     </project>
+    <project name="Beeline" path="$PROJECT_DIR$/spring-modulith-demo">
+      <vcs id="Git" remoteUrl="https://github.com/des-felins/spring-modulith-demo.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
